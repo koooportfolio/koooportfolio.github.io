@@ -2,20 +2,20 @@
 email: eungggggg@gmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
-name: Eunji Jeong
+name: KOOO
 title: Portfolio
 description: >
-  Eunji Jeong - a Product Designer's Portfolio
-url: https://eungggggg.github.io
+  KOOO - a Web Designer's Portfolio
+url: https://koooportfolio.guthub.com
 twitter_username: eungggggg
 default_img: /assets/images/seo.jpg
 social:
   # - name: twitter
   #   url: https://twitter.com/eungggggg
   - name: instagram
-    url: https://www.instagram.com/eungggggg/
+    url: https://www.instagram.com/kooo.illust
   - name: dribbble
     url: https://dribbble.com/eungggg
   - name: behance
@@ -61,7 +61,7 @@ autopages:
   collections:
     enabled: false
   tags:
-    layouts: 
+    layouts:
       - 'tag.html'
     title: 'The Barber Theme'
     permalink: '/tag/:tag'
