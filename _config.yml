@@ -1,29 +1,29 @@
 # Site/SEO settings
-email: eungggggg@gmail.com
+email: mocha0913@naver.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics:
 
 name: KOOO
-title: Portfolio
+title: KOOO Portfolio
 description: >
   KOOO - a Web Designer's Portfolio
 url: https://koooportfolio.guthub.com
-twitter_username: eungggggg
+# twitter_username: eungggggg
 default_img: /assets/images/seo.jpg
 social:
   # - name: twitter
   #   url: https://twitter.com/eungggggg
   - name: instagram
     url: https://www.instagram.com/kooo.illust
-  - name: dribbble
-    url: https://dribbble.com/eungggg
-  - name: behance
-    url: https://www.behance.net/eungggggg
-  - name: linkedin
-    url: https://www.linkedin.com/in/eungggggg/
-  - name: github
-    url: https://github.com/eungggggg
+  #- name: dribbble
+  #  url: https://dribbble.com/eungggg
+  #- name: behance
+  #  url: https://www.behance.net/eungggggg
+  #- name: linkedin
+  #  url: https://www.linkedin.com/in/eungggggg/
+  #- name: github
+  #  url: https://github.com/eungggggg
   # - name: codepen
   #   url: https://codepen.io/eungggggg/
 
