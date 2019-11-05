@@ -1,9 +1,11 @@
-html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown, .post-layout #markdown{
-	font-family: "Source Sans Pro","APPLE SD Gothic Neo",HelveticaNeue,Helvetica,"NanumGothic","맑은 고딕","Malgun Gothic",arial,sans-serif,"Source Sans Pro",sans-serif !important;
-	line-height: 1.6;
+html, body, h1, h2, h3, h4, h5, h6, #style-guide #markdown,
+.post-layout #markdown{
+	font-family: 'S-CoreDream-2ExtraLight';
+	src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/S-CoreDream-2ExtraLight.woff') format('woff');
+	font-weight: normal; font-style: normal;
 }
 
-::selection {    
+::selection {
     background: #3562ff;
 }
 
