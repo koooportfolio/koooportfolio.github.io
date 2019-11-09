@@ -8,7 +8,7 @@ name: KOOO
 title: KOOO Portfolio
 description: >
   KOOO - a Web Designer's Portfolio
-url: https://koooportfolio.guthub.com
+url: https://koooportfolio.guthub.io
 # twitter_username: eungggggg
 default_img: /assets/images/seo.jpg
 social:
@@ -40,7 +40,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Eunji Jeong
+  - name: KOOO
     # bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
     # url: http://thomasvaeth.com
 

@@ -67,6 +67,17 @@ main{
 	padding: 2em 8vw;
 }
 
+.h2{
+	margin-bottom: 100px;
+}
+
+.explain{
+	margin-top: 100px;
+	margin-bottom: 100px;
+	font-weight: lighter;
+
+}
+
 .grid-xlarge, #markdown p img{
 	width: 100% !important;
 }
